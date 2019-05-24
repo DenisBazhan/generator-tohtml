@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Bazhan Denis",
+      "authorEmail": "denis.bazhan@gmail.com",
+      "authorUrl": "https://github.com/DenisBazhan"
+    }
+  }
+}
